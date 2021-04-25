@@ -6,7 +6,6 @@
 Design a simple calculator which takes 2 values(EditText) from user and display their sum using Toast
 ```
 
-<br/>
 
 <div align="center">
     <img src="Capture.png" alt="question" height="300px">
