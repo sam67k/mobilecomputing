@@ -9,8 +9,6 @@
 3. On clicking the item it displays its position number in the list and name.
 ```
 
-<br/>
-
 ## Solution
 
 ### [activity_main.xml :](./MyApplication/app/src/main/res/layout/activity_main.xml)
