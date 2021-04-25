@@ -7,8 +7,6 @@ Create a layout using linear layout.
 The layout should contain Email, Subject and Message (EditText) and a Send Button.
 ```
 
-<br/>
-
 ## Solution
 
 ### [activity_main.xml :](./MyApplication/app/src/main/res/layout/activity_main.xml)
