@@ -6,8 +6,6 @@
 Design the layout using Relative Layout/Linear Layout/ Nested Layout.
 ```
 
-<br/>
-
 <div align="center">
     <img src="Capture.png" alt="question" height="300px">
 </div>
