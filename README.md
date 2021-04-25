@@ -14,8 +14,6 @@ Part 2:
     Create a new activity Named Login. Use to saved Email and password to login. If credentials match display a toast Message.
 ```
 
-<br/>
-
 ## Solution
 
 ### Part 1
