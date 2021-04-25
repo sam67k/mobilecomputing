@@ -6,8 +6,6 @@
 Create a UI as shown in classroom having 6 Radio Buttons and 1 Checkbox as per instructions given
 ```
 
-<br/>
-
 <div align="center">
     <a href="Capture.png">
         <img src="Capture.png" alt="question" height="300px">
