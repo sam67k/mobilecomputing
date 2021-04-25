@@ -6,8 +6,6 @@
 Replace hello world with your name in activity_main.xml
 ```
 
-<br/>
-
 ## Solution
 
 ### [activity_main.xml :](./MyApplication/app/src/main/res/layout/activity_main.xml)
