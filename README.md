@@ -6,8 +6,6 @@
 Create a Login page containing Username, Password, Login Btn, CreateNewAcc Btn and ForgotPassword Btn.
 ```
 
-<br/>
-
 ## Solution
 
 ### [activity_main.xml :](./MyApplication/app/src/main/res/layout/activity_main.xml)
