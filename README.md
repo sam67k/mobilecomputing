@@ -6,8 +6,6 @@
 Using Implicit intent create a application which should be capable enough to send a TextMessage and Email
 ```
 
-<br/>
-
 ## Solution
 
 <br/>
