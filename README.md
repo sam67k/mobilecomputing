@@ -6,8 +6,6 @@
 Complete the PSL Application
 ```
 
-<br/>
-
 <div align="center">
     <a href="Capture.png">
         <img src="Capture.png" alt="question" height="300px">
