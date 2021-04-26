@@ -227,16 +227,20 @@ public class MainActivity2 extends AppCompatActivity {
 
 <br/>
 
-<a href="screenshot.png">
-    <img src="screenshot.png" alt="screenshot[0]" height="400px">
-</a>
+<div align="center">
+    <a href="screenshot.png">
+        <img src="screenshot.png" alt="screenshot[0]" height="400px">
+    </a>
+</div>
 
 <br/>
 <br/>
 
-<a href="screenshot1.png">
-    <img src="screenshot1.png" alt="screenshot[1]" height="400px">
-</a>
+<div align="center">
+    <a href="screenshot1.png">
+        <img src="screenshot1.png" alt="screenshot[1]" height="400px">
+    </a>
+</div>
 
 <br/>
 <br/>
@@ -245,13 +249,17 @@ public class MainActivity2 extends AppCompatActivity {
 
 <br/>
 
-<a href="screenshot2.png">
-    <img src="screenshot2.png" alt="screenshot[2]" height="400px">
-</a>
+<div align="center">
+    <a href="screenshot2.png">
+        <img src="screenshot2.png" alt="screenshot[2]" height="400px">
+    </a>
+</div>
 
 <br/>
 <br/>
 
-<a href="screenshot3.png">
-    <img src="screenshot3.png" alt="screenshot[3]" height="400px">
-</a>
+<div align="center">
+    <a href="screenshot3.png">
+        <img src="screenshot3.png" alt="screenshot[3]" height="400px">
+    </a>
+</div>
