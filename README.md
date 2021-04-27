@@ -1,4 +1,6 @@
-# Mobile Computing Tasks
+# Mobile Computing Code
+
+## Lab Tasks
 
 - ✔️ [Task 1 - setting up](https://github.com/sam67k/mobilecomputing/tree/task1)
 - ✔️ [Task 2 - login page layout](https://github.com/sam67k/mobilecomputing/tree/task2)
@@ -11,3 +13,7 @@
 - ✔️ [Task 9 - dynamic list](https://github.com/sam67k/mobilecomputing/tree/task9)
 - ✔️ [Task 10 - basic signin signup layout with shared preference](https://github.com/sam67k/mobilecomputing/tree/task10)
 - ✔️ [Task 11 - implicit intent](https://github.com/sam67k/mobilecomputing/tree/task11)
+
+## Theory Assignments
+
+- ✔️ [Assignment 1 - Custom List View](https://github.com/sam67k/mobilecomputing/tree/assignment1)
