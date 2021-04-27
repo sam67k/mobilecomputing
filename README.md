@@ -9,7 +9,9 @@ Implement the following Layout using Custom List View
 <br/>
 
 <div align="center">
-    <img src="customlist-assignment.jpg" alt="question" height="300px">
+    <a href="customlist-assignment.jpg">
+        <img src="customlist-assignment.jpg" alt="question" height="300px">
+    </a>
 </div>
 
 <br/>
