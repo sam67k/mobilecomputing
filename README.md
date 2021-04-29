@@ -17,3 +17,7 @@
 ## Theory Assignments
 
 - ✔️ [Assignment 1 - Custom List View](https://github.com/sam67k/mobilecomputing/tree/assignment1)
+
+## Mid Term Paper
+
+- ✔️ [Papaer Solution](https://github.com/sam67k/mobilecomputing/tree/midtermpaper)
