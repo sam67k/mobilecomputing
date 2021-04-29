@@ -23,7 +23,7 @@ Create another activity which display the saved record in Shared Preferences fil
 
 <div align="center">
     <a href="image.jpg">
-        <img src="image.JPG" alt="question" height="300px">
+        <img src="image.jpg" alt="question" height="300px">
     </a>
 </div>
 
