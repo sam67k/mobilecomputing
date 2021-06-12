@@ -1,20 +1,3 @@
-# Mobile Computing Lab Task - 14
-
-## Question
-
-```
-Integrate google maps with your android application.
-The maps should have a marker of your home/area/nearbyspot near home
-The title of marker should be your name
-```
-
-<br/>
-
-## Solution
-
-### [MapsActivity.java :](./MyApplication/app/src/main/java/com/example/myapplication/MapsActivity.java)
-
-```
 package com.example.myapplication;
 
 import androidx.fragment.app.FragmentActivity;
@@ -53,16 +36,3 @@ public class MapsActivity extends FragmentActivity implements OnMapReadyCallback
         mMap.animateCamera( CameraUpdateFactory.zoomTo( 13.0f ) );
     }
 }
-```
-
-<br/>
-
-## Screenshot
-
-<br/>
-
-<div align="center">
-    <a href="screenshot.png">
-        <img src="screenshot.png" alt="screenshot[0]" height="400px">
-    </a>
-</div>
