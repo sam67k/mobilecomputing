@@ -13,6 +13,9 @@
 - ✔️ [Task 9 - dynamic list](https://github.com/sam67k/mobilecomputing/tree/task9)
 - ✔️ [Task 10 - basic signin signup layout with shared preference](https://github.com/sam67k/mobilecomputing/tree/task10)
 - ✔️ [Task 11 - implicit intent](https://github.com/sam67k/mobilecomputing/tree/task11)
+- ✔️ [Task 12 - sqlite signup/signin](https://github.com/sam67k/mobilecomputing/tree/task12)
+- ✔️ [Task 13 - notification](https://github.com/sam67k/mobilecomputing/tree/task13)
+- ✔️ [Task 14 - google maps](https://github.com/sam67k/mobilecomputing/tree/task14)
 
 ## Theory Assignments
 
