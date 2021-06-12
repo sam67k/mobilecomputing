@@ -1,19 +1,3 @@
-# Mobile Computing Lab Task - 13
-
-## Question
-
-```
-Create a notification with an icon, ContentTitle and ContentText.
-Content title should be your name and content text should be your email address
-```
-
-<br/>
-
-## Solution
-
-### [MainActivity.java :](./MyApplication/app/src/main/java/com/example/myapplication/MainActivity.java)
-
-```
 package com.example.myapplication;
 
 import androidx.annotation.RequiresApi;
@@ -53,16 +37,3 @@ public class MainActivity extends AppCompatActivity {
 
     }
 }
-```
-
-<br/>
-
-## Screenshot
-
-<br/>
-
-<div align="center">
-    <a href="screenshot.gif">
-        <img src="screenshot.gif" alt="screenshot[0]" height="400px">
-    </a>
-</div>
