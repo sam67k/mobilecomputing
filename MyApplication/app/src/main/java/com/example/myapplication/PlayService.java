@@ -1,18 +1,3 @@
-# Mobile Computing Lab Task - 15
-
-## Question
-
-```
-create a Service which plays music
-```
-
-<br/>
-
-## Solution
-
-### [PlayService.java :](./MyApplication/app/src/main/java/com/example/myapplication/PlayService.java)
-
-```
 package com.example.myapplication;
 
 import android.app.Service;
@@ -44,4 +29,3 @@ public class PlayService extends Service {
         super.onDestroy();
     }
 }
-```
