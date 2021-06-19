@@ -1,20 +1,3 @@
-# Mobile Computing Lab Task - 16
-
-## Question
-
-```
-Create a web brower using webkit
-The webbrowser should be capable to load different urls provided by user
-The webview should have a go forward and go backward button aswell
-```
-
-<br/>
-
-## Solution
-
-### [MainActivity.java :](./MyApplication/app/src/main/java/com/example/myapplication/MainActivity.java)
-
-```
 package com.example.myapplication;
 
 import androidx.appcompat.app.ActionBar;
@@ -59,16 +42,3 @@ public class MainActivity extends AppCompatActivity {
         webView.loadUrl(editText.getText().toString());
     }
 }
-```
-
-<br/>
-
-## Screenshot
-
-<br/>
-
-<div align="center">
-    <a href="screenshot.png">
-        <img src="screenshot.png" alt="screenshot[0]" height="400px">
-    </a>
-</div>
