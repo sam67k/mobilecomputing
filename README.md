@@ -16,6 +16,8 @@
 - ✔️ [Task 12 - sqlite signup/signin](https://github.com/sam67k/mobilecomputing/tree/task12)
 - ✔️ [Task 13 - notification](https://github.com/sam67k/mobilecomputing/tree/task13)
 - ✔️ [Task 14 - google maps](https://github.com/sam67k/mobilecomputing/tree/task14)
+- ✔️ [Task 15 - services](https://github.com/sam67k/mobilecomputing/tree/task15)
+- ✔️ [Task 16 - Web Browser](https://github.com/sam67k/mobilecomputing/tree/task16)
 
 ## Theory Assignments
 
